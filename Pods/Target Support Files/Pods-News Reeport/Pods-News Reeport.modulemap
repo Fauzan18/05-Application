@@ -1,0 +1,6 @@
+framework module Pods_News_Reeport {
+  umbrella header "Pods-News Reeport-umbrella.h"
+
+  export *
+  module * { export * }
+}
